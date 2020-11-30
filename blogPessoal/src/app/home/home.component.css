@@ -1,0 +1,10 @@
+.parallax {
+   background-image: url('https://miro.medium.com/max/3000/1*N7PVmz2ei5SwdyCAnqLRIg.jpeg');
+
+    min-height: 500px;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
